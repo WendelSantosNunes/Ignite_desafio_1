@@ -1,13 +1,13 @@
 # Conceitos do React
 
-![Página Principal](/imagem/Pagina_principal.png))
+![Página Principal](/imagem/Pagina_principal.png)
 
 ## 💻 **Tecnologias**
 
 Esse projeto foi desenvolvido principalmente com essas tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
-- [Ts](https://www.typescriptlang.org/)
+- [TS](https://www.typescriptlang.org/)
 
 ## 🚀 **Projeto**
 
