@@ -1,14 +1,13 @@
-# RocketCard
+# Conceitos do React
 
-![Página Principal](https://github.com/WendelSantosNunes/RocketCard/blob/main/img/imgReadme/P%C3%A1gina%20principal.png?raw=true)
+![Página Principal](/imagem/Captura%20de%20tela%20de%202022-05-18%2017-08-34.png))
 
 ## 💻 **Tecnologias**
 
-Esse projeto foi desenvolvido com essas tecnologias:
+Esse projeto foi desenvolvido principalmente com essas tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [React](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Ts](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🎨 **Layout**
 
